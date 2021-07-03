@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternalDisplayAdapterManagerApp", "InternalDisplayAdapterManagerApp\InternalDisplayAdapterManagerApp.csproj", "{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceHelperLib", "DeviceHelperLib\DeviceHelperLib.csproj", "{6A3825D9-1CB0-4A05-A235-9B915236187A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Debug|x64.ActiveCfg = Debug|x64
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Debug|x64.Build.0 = Debug|x64
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Debug|x86.ActiveCfg = Debug|x86
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Debug|x86.Build.0 = Debug|x86
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Release|x64.ActiveCfg = Release|x64
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Release|x64.Build.0 = Release|x64
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Release|x86.ActiveCfg = Release|x86
+		{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}.Release|x86.Build.0 = Release|x86
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Debug|x64.Build.0 = Debug|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Debug|x86.Build.0 = Debug|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Release|x64.ActiveCfg = Release|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Release|x64.Build.0 = Release|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Release|x86.ActiveCfg = Release|Any CPU
+		{6A3825D9-1CB0-4A05-A235-9B915236187A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5858799-BE26-4E99-B280-45BDBAC376B9}
+	EndGlobalSection
+EndGlobal
