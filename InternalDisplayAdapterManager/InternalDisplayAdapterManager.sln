@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternalDisplayAdapterManagerApp", "InternalDisplayAdapterManagerApp\InternalDisplayAdapterManagerApp.csproj", "{ECF5BAF4-C1A6-42D2-937F-BC46EE4CCA0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceHelperLib", "DeviceHelperLib\DeviceHelperLib.csproj", "{6A3825D9-1CB0-4A05-A235-9B915236187A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeviceHelperLib", "DeviceHelperLib\DeviceHelperLib.csproj", "{6A3825D9-1CB0-4A05-A235-9B915236187A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DA6BAA6-C6D7-4046-A8AB-A61D5532A524}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

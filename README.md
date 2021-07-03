@@ -31,13 +31,14 @@ This console app makes it easy to do (2).
 
 ### Executing program
 
-* Simply run `InternalDisplayAdapterManagerApp.exe`
+* Simply run `InternalDisplayAdapterManagerApp.exe` (must be run with Administrator privileges)
 
 ## Version History
-
-* 1.0
+* 1.0.1
+    * Added automated bits to require elevated permissions when running the application
+* 1.0.0
     * First working version
-* 0.1
+* 0.1.0
     * First commit
 
 ## License
